@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬────────────────┬───────────────┐
+│ state ┆ youngest       ┆ oldest        │
+│ ---   ┆ ---            ┆ ---           │
+│ cat   ┆ str            ┆ str           │
+╞═══════╪════════════════╪═══════════════╡
+│ MN    ┆ Erik Paulsen   ┆ Cyrus Aldrich │
+│ KY    ┆ Benjamin Grey  ┆ Matthew Lyon  │
+│ MS    ┆ Charles Hooker ┆ Thomas Greene │
+│ OR    ┆ George Shiel   ┆ Joseph Lane   │
+│ CT    ┆ Samuel Simons  ┆ Roger Sherman │
+└───────┴────────────────┴───────────────┘

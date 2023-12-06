@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬─────────────────────┬─────────────────┬────────────────────┐
+│ state ┆ youngest            ┆ oldest          ┆ alphabetical_first │
+│ ---   ┆ ---                 ┆ ---             ┆ ---                │
+│ cat   ┆ str                 ┆ str             ┆ str                │
+╞═══════╪═════════════════════╪═════════════════╪════════════════════╡
+│ GU    ┆ Michael San Nicolas ┆ Antonio Won Pat ┆ Antonio Won Pat    │
+│ AZ    ┆ Ben Quayle          ┆ Coles Bashford  ┆ Ann Kirkpatrick    │
+│ HI    ┆ Tulsi Gabbard       ┆ Robert Wilcox   ┆ Cecil Heftel       │
+│ AK    ┆ Mark Begich         ┆ Thomas Cale     ┆ Anthony Dimond     │
+│ WI    ┆ Sean Duffy          ┆ Henry Dodge     ┆ Adolphus Nelson    │
+└───────┴─────────────────────┴─────────────────┴────────────────────┘
